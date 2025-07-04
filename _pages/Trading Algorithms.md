@@ -5,12 +5,14 @@ permalink: /tradingalgo/
 author_profile: true
 ---
 
+
+
+
 # Cross-Metal Statistical Arbitrage Engine with LSTM Model Integration  
 **Rishon Reddy Nimmakayala**  
 *04/2025*
 
 ---
-
 ## Overview
 
 This project proposes the development of a quantitative framework and strategy that signals trading opportunities between cointegrated metals (Gold, Silver, Copper) through a statistical arbitrage lens. The goal is to identify historically co-moving metal pairs, measure their deviations in price behavior, and quantify the opportunity for mean-reverting relative value strategies.
