@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm **Rishon Nimmakayala**, a Computer Science and Mathematics undergraduate at **Virginia Tech**. I’m currently a **Metals Quantitative Analyst** for [COINS](https://coins.aaec.vt.edu/), the nation’s only student-run commodities trading group investing up to $1M in real markets. My interests span **algorithmic trading**, **machine learning**, and **software engineering for social impact**.
+Hi, I’m Rishon, a rising sophomore at Virginia Tech, studying both Computer Science and Mathematics. I'm also interested in all finance and fintech-related subjects. I currently serve as a Metals Quantative Analyst and Copper Analyst  for [COINS](https://coins.aaec.vt.edu/), the nation’s only student-run commodities trading group investing up to $1M in real markets. My specific interests lie in algorithmic trading, machine learning, and software engineering. Always happy to connect at nrrishon@vt.edu.
 
 ---
 
 ### 🔬 What I’m Working On
 
-- Building a **cross-metal statistical arbitrage engine** with LSTM integration for copper, gold, and silver.
-- Developing an **AI-powered captioning device** for classrooms using OpenAI’s Whisper model.
-- Designing **drone-based disaster relief software** that competed at RSEF and was selected for a NASA telescope research program.
+- Building a **cross-metal statistical arbitrage engine** with LSTM integration for the gold-silver spread.
+- Continuing an **AI-powered captioning device** project for Virginia Tech lecture halls using OpenAI’s Whisper model.
+- Upgrading a personal **drone-based disaster relief software** project that competed at RSEF and was selected for a NASA Nancy-Grace Roman Space program.
 
 ---
 
