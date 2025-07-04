@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm **Rishon Nimmakayala**, a Computer Science and Mathematics undergraduate at **Virginia Tech**. I’m currently a **Metals Quantitative Analyst** for [COINS](https://www.coinsatvt.com/), the nation’s only student-run commodities trading group investing up to $1M in real markets. My interests span **algorithmic trading**, **machine learning**, and **software engineering for social impact**.
+Hi, I'm **Rishon Nimmakayala**, a Computer Science and Mathematics undergraduate at **Virginia Tech**. I’m currently a **Metals Quantitative Analyst** for [COINS](https://coins.aaec.vt.edu/), the nation’s only student-run commodities trading group investing up to $1M in real markets. My interests span **algorithmic trading**, **machine learning**, and **software engineering for social impact**.
 
 ---
 
