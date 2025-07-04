@@ -15,7 +15,7 @@ Hi, I’m Rishon, a rising sophomore at Virginia Tech, studying both Computer Sc
 
 - Building a **cross-metal statistical arbitrage engine** with LSTM integration for the gold-silver spread.
 - Continuing an **AI-powered captioning device** project for Virginia Tech lecture halls using OpenAI’s Whisper model.
-- Upgrading a personal **drone-based disaster relief software** project that competed at RSEF and was selected for a NASA Nancy-Grace Roman Space program.
+- Upgrading a personal **drone-based disaster relief software** project that competed at RSEF and was selected for a NASA Nancy-Grace Roman Space Telescope program.
 
 ---
 
@@ -23,22 +23,21 @@ Hi, I’m Rishon, a rising sophomore at Virginia Tech, studying both Computer Sc
 
 - **Programming**: Python, Java, React (Native), Git, MATLAB  
 - **Quantitative**: Financial modeling, Derivatives, Bloomberg Terminal  
-- **Tools**: Fusion 360, Whisper, Excel, VS Code  
+- **Tools**: Fusion 360, Whisper, Excel, VS Code, Microsoft Office
 
 ---
 
 ### 🎓 Experience Highlights
 
 - **NASA Goddard AIAA-NCS Program** – AI software for snow leopard conservation  
-- **Kashmir World Foundation** – Mobile apps for global conservation efforts  
-- **LCPS School Business Partnership** – Committee member organizing county-wide internship events  
+- **Kashmir World Foundation** – Mobile and Desktop application for global snow leapord conservation efforts
+- **LCPS School Business Partnership** – Committee member organizing county-wide internship events and creating partnerships between business and schools.  
 
 ---
 
 ### 🎯 Goals
 
-I aim to bridge the gap between technical research and real-world applications—whether it’s through trading models, conservation tools, or accessibility devices. I’m especially passionate about leveraging data and AI to create scalable solutions for complex human challenges.
-
+My aspirations are aimed at bridging the worlds of technical research and real-world applications in order to benefit consumers through the creation of various trading models, conservation tools, or accessibility products. My projects aim to leverage emerging technologies, optimize processes in order to deliver cutting-edge products to clients.
 ---
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rishon-nimmakayala) or email me at [nrrishon@vt.edu](mailto:nrrishon@vt.edu).
